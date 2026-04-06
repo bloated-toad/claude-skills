@@ -13,6 +13,6 @@ Some of my most useful Claude skills. Please enjoy!
 
 **[Thrift Store ID](thrift-store-id/)** — Identifies thrift store finds from 1–6 photos with a structured output covering ID, confidence level, fake warnings, current market pricing via web search, and a buy/pass verdict. Calibrated confidence tiers instead of false certainty, and verdicts that consider design quality and personal appeal alongside resale margins.
 
-**[Wikipedia Editing Helper](wikipedia-analyzer/)** - Helps an aspiring Wikipedia editor locate opportunities to contribute and learn what makes good content work. Claude isn't editing, you are. This skill is meant to help overcome the initial hurdle and provide actionable advice. 
+**[Wikipedia Editing Helper](wikipedia-analyzer/)** — Helps an aspiring Wikipedia editor locate opportunities to contribute and learn what makes good content work. Claude isn't editing, you are. This skill is meant to help overcome the initial hurdle and provide actionable advice. 
 
 **[Wrap-Up](wrap-up/)** — End-of-conversation skill that generates a four-section deliverable: discussion narrative arc, distilled key insights, prompting critique, and bibliography. The prompting critique section provides specific critical feedback on what worked in your prompting and where Claude gave weak answers you didn't push back on.
